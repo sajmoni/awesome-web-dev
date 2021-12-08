@@ -47,6 +47,16 @@ https://github.com/jonas/tig - Text-mode interface for git
 
 https://github.com/Hammerspoon/hammerspoon - Staggeringly powerful macOS desktop automation with Lua
 
+thefuck
+
+### Shell
+
+autojump
+
+pure
+
+zsh-syntax-highlighting
+
 
 ## Websites
 

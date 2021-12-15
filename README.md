@@ -1,19 +1,19 @@
 # awesome-stuff
 List of awesome tools and libraries
 
-## JS libraries
+## JavaScript
 
 ### Universal
 
-https://github.com/pmndrs/valtio
+https://github.com/pmndrs/valtio - 💊 Valtio makes proxy-state simple for React and Vanilla
 
-https://github.com/immerjs/immer
+https://github.com/immerjs/immer - Create the next immutable state by mutating the current one
 
-https://github.com/remeda/remeda
+https://github.com/remeda/remeda - A utility library for JavaScript and TypeScript.
 
-https://github.com/sindresorhus/randoma
+https://github.com/sindresorhus/randoma - User-friendly pseudorandom number generator (PRNG)
 
-https://github.com/vitejs/vite
+https://github.com/vitejs/vite - Next generation frontend tooling. It's fast!
 
 ### Browser
 
@@ -33,6 +33,12 @@ https://github.com/vadimdemedes/ink - 🌈 React for interactive command-line ap
 
 ### React
 
+https://github.com/reduxjs/redux-toolkit - The official, opinionated, batteries-included toolset for efficient Redux development
+
+https://github.com/wbkd/react-flow - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
+
+https://github.com/petyosi/react-virtuoso - The most powerful virtual list component for React
+
 ## TypeScript
 
 https://github.com/sindresorhus/type-fest - A collection of essential TypeScript types
@@ -51,9 +57,9 @@ thefuck
 
 ### Shell
 
-autojump
+https://github.com/wting/autojump - A cd command that learns - easily navigate directories from the command line
 
-pure
+https://github.com/sindresorhus/pure - Pretty, minimal and fast ZSH prompt
 
 zsh-syntax-highlighting
 
@@ -62,12 +68,15 @@ zsh-syntax-highlighting
 
 ## Apps
 
+https://github.com/vercel/hyper - A terminal built on web technologies
+
+## Paid stuff
+
 Sizzy
 
 aseprite
 
-https://github.com/vercel/hyper - A terminal built on web technologies
-
+Deckset
 
 ## VS Code extensions
 

@@ -47,8 +47,6 @@ https://github.com/sindresorhus/ts-extras - Essential utilities for TypeScript p
 
 ## CLI's
 
-https://github.com/egoist/dum - An npm scripts runner written in Rust.
-
 https://github.com/jonas/tig - Text-mode interface for git
 
 https://github.com/Hammerspoon/hammerspoon - Staggeringly powerful macOS desktop automation with Lua

@@ -1,80 +1,156 @@
-# awesome-stuff
-List of awesome tools and libraries
+# awesome-web-dev
 
-## JavaScript
+> A list of awesome tools, libraries and apps for web developers
 
-### :globe_with_meridians: Universal
+## :books: Libraries
+
+### Universal
 
 ### [valtio](https://github.com/pmndrs/valtio)
 
 > 💊 Valtio makes proxy-state simple for React and Vanilla
 
-https://github.com/immerjs/immer - Create the next immutable state by mutating the current one
+### [immer](https://github.com/immerjs/immer)
 
-https://github.com/remeda/remeda - A utility library for JavaScript and TypeScript.
+> Create the next immutable state by mutating the current one
 
-https://github.com/sindresorhus/randoma - User-friendly pseudorandom number generator (PRNG)
+### [remeda](https://github.com/remeda/remeda)
+
+> A utility library for JavaScript and TypeScript.
+
+### [randoma](https://github.com/sindresorhus/randoma)
+
+> User-friendly pseudorandom number generator (PRNG)
+
+### [nanoid](https://github.com/ai/nanoid)
+
+> A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+
+### [type-fest](https://github.com/sindresorhus/type-fest)
+
+> A collection of essential TypeScript types
+
+### [ts-extras](https://github.com/sindresorhus/ts-extras)
+
+> Essential utilities for TypeScript projects
 
 ### Browser
 
-https://github.com/pixijs/pixijs - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+### [pixi.js](https://github.com/pixijs/pixijs)
 
-https://github.com/jamiebuilds/tinykeys - A tiny (~400 B) & modern library for keybindings.
+> The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 
-https://github.com/vitejs/vite - Next generation frontend tooling. It's fast!
+### [tinykeys](https://github.com/jamiebuilds/tinykeys)
+
+> A tiny (~400 B) & modern library for keybindings.
 
 ### Node
 
-https://github.com/avajs/ava - Node.js test runner that lets you develop with confidence 🚀
+### [fs-extra](https://github.com/jprichardson/node-fs-extra)
 
-https://github.com/folke/esbuild-runner - ⚡️ Super-fast on-the-fly transpilation of modern JS, TypeScript and JSX using esbuild
+> Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 
-https://github.com/jprichardson/node-fs-extra - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
+### [ink](https://github.com/vadimdemedes/ink)
 
-https://github.com/vadimdemedes/ink - 🌈 React for interactive command-line apps
+> 🌈 React for interactive command-line apps
+
+### [chalk](https://github.com/chalk/chalk)
+
+> 🖍 Terminal string styling done right
+
+### [execa](https://github.com/sindresorhus/execa)
+
+> Process execution for humans
+
+### [listr2](https://github.com/cenk1cenk2/listr2)
+
+> NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive
+
+### [cfonts](https://github.com/dominikwilkowski/cfonts)
+
+> Sexy fonts for the console
 
 ### React
 
-https://github.com/reduxjs/redux-toolkit - The official, opinionated, batteries-included toolset for efficient Redux development
+### [redux-toolkit](https://github.com/reduxjs/redux-toolkit) 
 
-https://github.com/wbkd/react-flow - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
+> The official, opinionated, batteries-included toolset for efficient Redux development
 
-https://github.com/petyosi/react-virtuoso - The most powerful virtual list component for React
+### [react-flow](https://github.com/wbkd/react-flow)
 
-## TypeScript
+> Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 
-https://github.com/sindresorhus/type-fest - A collection of essential TypeScript types
+### [react-virtuoso](https://github.com/petyosi/react-virtuoso)
 
-https://github.com/sindresorhus/ts-extras - Essential utilities for TypeScript projects
+> The most powerful virtual list component for React
+
+### [styled-components](https://github.com/styled-components/styled-components)
+
+> Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+
+## :wrench: JS Tooling
+
+### [vite](https://github.com/vitejs/vite)
+
+> Next generation frontend tooling. It's fast!
+
+### [ava](https://github.com/avajs/ava)
+
+> Node.js test runner that lets you develop with confidence 🚀
+
+### [esbuild-runner](https://github.com/folke/esbuild-runner)
+
+> ⚡️ Super-fast on-the-fly transpilation of modern JS, TypeScript and JSX using esbuild
+
+### [np](https://github.com/sindresorhus/np)
+
+> A better `npm publish`
 
 ## :computer: CLI's
 
-https://github.com/jonas/tig - Text-mode interface for git
+### [tig](https://github.com/jonas/tig) 
 
-https://github.com/Hammerspoon/hammerspoon - Staggeringly powerful macOS desktop automation with Lua
+> Text-mode interface for git
 
-thefuck
+### [thefuck](https://github.com/nvbn/thefuck)
+
+> Magnificent app which corrects your previous console command
 
 ### Shell
 
-https://github.com/wting/autojump - A cd command that learns - easily navigate directories from the command line
+### [autojump](https://github.com/wting/autojump)
 
-https://github.com/sindresorhus/pure - Pretty, minimal and fast ZSH prompt
+> A cd command that learns - easily navigate directories from the command line
 
-zsh-syntax-highlighting
+### [pure](https://github.com/sindresorhus/pure)
 
+> Pretty, minimal and fast ZSH prompt
+
+### [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+
+> Fish shell like syntax highlighting for Zsh
 
 ## Websites
 
 ## :iphone: Apps
 
-https://github.com/vercel/hyper - A terminal built on web technologies
+### [hyper](https://github.com/vercel/hyper) 
+
+> A terminal built on web technologies
+
+### [hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+
+> Staggeringly powerful macOS desktop automation with Lua
 
 ## :moneybag: Paid stuff
 
-### Sizzy
+### [Sizzy](https://sizzy.co/)
 
-### aseprite
+> The browser for developers
+
+### [aseprite](https://www.aseprite.org/)
+
+> Animated sprite editor & pixel art tool
 
 ### [Deckset](https://www.deckset.com/)
 
@@ -84,28 +160,51 @@ https://github.com/vercel/hyper - A terminal built on web technologies
 
 ### [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
 
-> Automating the process of writing meaningful log messages.
+> Automating the process of writing meaningful log messages
 
-Template String Converter
+### [Template String Converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
 
-Tokyo Night
+> Converts a string to a template string when ${ is typed
 
-Markdown All in One
+### [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
-file-icons
+> A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night
 
-Code Spell checker
+### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-Color highlight
+> All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 
-indent-rainbow
+### [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
 
-Peacock
+> File-specific icons in VSCode for improved visual grepping
 
-Gitlens
+### [Code Spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+> Spelling checker for source code
+
+### [Color highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+> Highlight web colors in your editor
+
+### [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+> Makes indentation easier to read
+
+### [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+
+> Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which
+
+### [Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+> Supercharge the Git capabilities built into Visual Studio Code
 
 ### Snippets
 
-Ava
+### [Ava](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava)
 
-eslint-disable-snippets
+> Snippets for AVA
+
+### [eslint-disable-snippets](https://marketplace.visualstudio.com/items?itemName=drKnoxy.eslint-disable-snippets)
+
+> Simple snippets for disable eslint rules
+

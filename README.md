@@ -3,7 +3,7 @@ List of awesome tools and libraries
 
 ## JavaScript
 
-### Universal
+### :globe_with_meridians: Universal
 
 ### [valtio](https://github.com/pmndrs/valtio)
 
@@ -47,7 +47,7 @@ https://github.com/sindresorhus/type-fest - A collection of essential TypeScript
 
 https://github.com/sindresorhus/ts-extras - Essential utilities for TypeScript projects
 
-## CLI's
+## :computer: CLI's
 
 https://github.com/jonas/tig - Text-mode interface for git
 
@@ -66,11 +66,11 @@ zsh-syntax-highlighting
 
 ## Websites
 
-## Apps
+## :iphone: Apps
 
 https://github.com/vercel/hyper - A terminal built on web technologies
 
-## Paid stuff
+## :moneybag: Paid stuff
 
 ### Sizzy
 
@@ -80,7 +80,7 @@ https://github.com/vercel/hyper - A terminal built on web technologies
 
 > Deckset designs your slides, so you can focus on your ideas
 
-## VS Code extensions
+## :vs: VS Code extensions
 
 ### [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
 

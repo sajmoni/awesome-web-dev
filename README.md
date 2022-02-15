@@ -198,6 +198,10 @@
 
 > Supercharge the Git capabilities built into Visual Studio Code
 
+### [Bracketeer](https://marketplace.visualstudio.com/items?itemName=pustelto.bracketeer)
+
+> Easy manipulation with brackets and quotes
+
 ### Snippets
 
 ### [Ava](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava)

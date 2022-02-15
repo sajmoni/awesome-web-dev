@@ -5,7 +5,9 @@ List of awesome tools and libraries
 
 ### Universal
 
-https://github.com/pmndrs/valtio - 💊 Valtio makes proxy-state simple for React and Vanilla
+### [valtio](https://github.com/pmndrs/valtio)
+
+> 💊 Valtio makes proxy-state simple for React and Vanilla
 
 https://github.com/immerjs/immer - Create the next immutable state by mutating the current one
 
@@ -13,13 +15,13 @@ https://github.com/remeda/remeda - A utility library for JavaScript and TypeScri
 
 https://github.com/sindresorhus/randoma - User-friendly pseudorandom number generator (PRNG)
 
-https://github.com/vitejs/vite - Next generation frontend tooling. It's fast!
-
 ### Browser
 
 https://github.com/pixijs/pixijs - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 
 https://github.com/jamiebuilds/tinykeys - A tiny (~400 B) & modern library for keybindings.
+
+https://github.com/vitejs/vite - Next generation frontend tooling. It's fast!
 
 ### Node
 
@@ -70,15 +72,19 @@ https://github.com/vercel/hyper - A terminal built on web technologies
 
 ## Paid stuff
 
-Sizzy
+### Sizzy
 
-aseprite
+### aseprite
 
-Deckset
+### [Deckset](https://www.deckset.com/)
+
+> Deckset designs your slides, so you can focus on your ideas
 
 ## VS Code extensions
 
-Turbo Console Log
+### [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
+
+> Automating the process of writing meaningful log messages.
 
 Template String Converter
 

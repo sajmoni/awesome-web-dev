@@ -106,6 +106,10 @@
 
 > A better `npm publish`
 
+### [ts-prune](https://github.com/nadeesha/ts-prune)
+
+> Find unused exports in a typescript project. 🛀
+
 ## :computer: CLI's
 
 ### [tig](https://github.com/jonas/tig) 
@@ -130,7 +134,11 @@
 
 > Fish shell like syntax highlighting for Zsh
 
-## Websites
+## :postbox: Services
+
+### [netlify](https://www.netlify.com/)
+
+> Build the future of the web
 
 ## :iphone: Apps
 
@@ -142,7 +150,7 @@
 
 > Staggeringly powerful macOS desktop automation with Lua
 
-## :moneybag: Paid stuff
+## :moneybag: Paid apps
 
 ### [Sizzy](https://sizzy.co/)
 
@@ -211,4 +219,3 @@
 ### [eslint-disable-snippets](https://marketplace.visualstudio.com/items?itemName=drKnoxy.eslint-disable-snippets)
 
 > Simple snippets for disable eslint rules
-

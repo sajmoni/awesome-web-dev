@@ -34,15 +34,23 @@
 
 > Essential utilities for TypeScript projects
 
+### [debug](https://github.com/debug-js/debug)
+
+> A tiny JavaScript debugging utility modelled after Node.js core's debugging technique
+
+### [xstate](https://github.com/statelyai/xstate)
+
+> State machines and statecharts for the modern web
+
 ### Browser
 
 ### [pixi.js](https://github.com/pixijs/pixijs)
 
-> The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+> The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer
 
 ### [tinykeys](https://github.com/jamiebuilds/tinykeys)
 
-> A tiny (~400 B) & modern library for keybindings.
+> A tiny (~400 B) & modern library for keybindings
 
 ### Node
 
@@ -69,6 +77,14 @@
 ### [cfonts](https://github.com/dominikwilkowski/cfonts)
 
 > Sexy fonts for the console
+
+### [cosmiconfig](https://github.com/davidtheclark/cosmiconfig)
+
+> Find and load configuration from a package.json property, rc file, or CommonJS module
+
+### [conf](https://github.com/sindresorhus/conf)
+
+> Simple config handling for your app or module
 
 ### React
 
@@ -149,6 +165,8 @@
 ### [hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 
 > Staggeringly powerful macOS desktop automation with Lua
+
+### [Gifski](https://sindresorhus.com/gifski)
 
 ## :moneybag: Paid apps
 

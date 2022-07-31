@@ -124,7 +124,11 @@
 
 ### [ts-prune](https://github.com/nadeesha/ts-prune)
 
-> Find unused exports in a typescript project. 🛀
+> Find unused exports in a typescript project
+
+### [jscpd](https://github.com/kucherenko/jscpd)
+
+> Copy/paste detector for programming source code
 
 ## :computer: CLI's
 

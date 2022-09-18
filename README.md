@@ -15,9 +15,11 @@
     - [ts-extras](#ts-extras)
     - [debug](#debug)
     - [xstate](#xstate)
+    - [zod](#zod)
   - [Browser](#browser)
     - [pixi.js](#pixijs)
     - [tinykeys](#tinykeys)
+    - [modern-normalize](#modern-normalize)
   - [Node](#node)
     - [fs-extra](#fs-extra)
     - [ink](#ink)
@@ -27,13 +29,20 @@
     - [cfonts](#cfonts)
     - [cosmiconfig](#cosmiconfig)
     - [conf](#conf)
+    - [trpc](#trpc)
+    - [fastify](#fastify)
+    - [tempy](#tempy)
+    - [cac](#cac)
+    - [tsx](#tsx)
   - [React](#react)
     - [redux-toolkit](#redux-toolkit)
     - [react-flow](#react-flow)
     - [react-virtuoso](#react-virtuoso)
     - [styled-components](#styled-components)
+    - [floating-ui](#floating-ui)
 - [:wrench: JS/TS Tooling](#wrench-jsts-tooling)
     - [vite](#vite)
+    - [vitest](#vitest)
     - [ava](#ava)
     - [esbuild-runner](#esbuild-runner)
     - [np](#np)
@@ -95,6 +104,10 @@
 
 > State machines and statecharts for the modern web
 
+#### [zod](https://github.com/colinhacks/zod)
+
+> TypeScript-first schema validation with static type inference
+
 ### Browser
 
 #### [pixi.js](https://github.com/pixijs/pixijs)
@@ -104,6 +117,10 @@
 #### [tinykeys](https://github.com/jamiebuilds/tinykeys)
 
 > A tiny (~400 B) & modern library for keybindings
+
+#### [modern-normalize](https://github.com/sindresorhus/modern-normalize)
+
+> 🐒 Normalize browsers' default style
 
 ### Node
 
@@ -139,6 +156,26 @@
 
 > Simple config handling for your app or module
 
+#### [trpc](https://github.com/trpc/trpc)
+
+> 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy
+
+#### [fastify](https://github.com/fastify/fastify)
+
+> Fast and low overhead web framework, for Node.js
+
+#### [tempy](https://github.com/sindresorhus/tempy)
+
+> Get a random temporary file or directory path
+
+#### [cac](https://github.com/cacjs/cac)
+
+> Simple yet powerful framework for building command-line apps
+
+#### [tsx](https://github.com/esbuild-kit/tsx)
+
+> ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
+
 ### React
 
 #### [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
@@ -157,11 +194,19 @@
 
 > Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
+#### [floating-ui](https://github.com/floating-ui/floating-ui)
+
+> A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
+
 ## :wrench: JS/TS Tooling
 
 #### [vite](https://github.com/vitejs/vite)
 
 > Next generation frontend tooling. It's fast!
+
+#### [vitest](https://github.com/vitest-dev/vitest)
+
+> A Vite-native test framework. It's fast!
 
 #### [ava](https://github.com/avajs/ava)
 

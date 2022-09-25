@@ -16,6 +16,7 @@
     - [debug](#debug)
     - [xstate](#xstate)
     - [zod](#zod)
+    - [faker](#faker)
   - [Browser](#browser)
     - [pixi.js](#pixijs)
     - [tinykeys](#tinykeys)
@@ -107,6 +108,10 @@
 #### [zod](https://github.com/colinhacks/zod)
 
 > TypeScript-first schema validation with static type inference
+
+#### [faker](https://github.com/faker-js/faker)
+
+> Generate massive amounts of fake data in the browser and node.js
 
 ### Browser
 

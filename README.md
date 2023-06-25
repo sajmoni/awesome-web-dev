@@ -9,7 +9,6 @@
     - [valtio](#valtio)
     - [immer](#immer)
     - [remeda](#remeda)
-    - [randoma](#randoma)
     - [nanoid](#nanoid)
     - [type-fest](#type-fest)
     - [ts-extras](#ts-extras)
@@ -35,6 +34,7 @@
     - [tempy](#tempy)
     - [cac](#cac)
     - [tsx](#tsx)
+    - [env-cmd](#env-cmd)
   - [React](#react)
     - [redux-toolkit](#redux-toolkit)
     - [react-flow](#react-flow)
@@ -42,28 +42,28 @@
     - [styled-components](#styled-components)
     - [floating-ui](#floating-ui)
 - [:wrench: JS/TS Tooling](#wrench-jsts-tooling)
-    - [vite](#vite)
-    - [vitest](#vitest)
-    - [ava](#ava)
-    - [esbuild-runner](#esbuild-runner)
-    - [np](#np)
-    - [ts-prune](#ts-prune)
-    - [jscpd](#jscpd)
+  - [vite](#vite)
+  - [vitest](#vitest)
+  - [np](#np)
+  - [knip](#knip)
+  - [jscpd](#jscpd)
 - [:computer: Terminal](#computer-terminal)
-    - [tig](#tig)
-    - [thefuck](#thefuck)
-    - [autojump](#autojump)
-    - [pure](#pure)
-    - [zsh-syntax-highlighting](#zsh-syntax-highlighting)
+  - [tig](#tig)
+  - [autojump](#autojump)
+  - [pure](#pure)
+  - [zsh-syntax-highlighting](#zsh-syntax-highlighting)
+  - [zsh-autosuggestions](#zsh-autosuggestions)
 - [:postbox: Services](#postbox-services)
-    - [netlify](#netlify)
+  - [netlify](#netlify)
 - [:iphone: Apps](#iphone-apps)
-    - [hyper](#hyper)
-    - [hammerspoon](#hammerspoon)
-    - [Gifski](#gifski)
-    - [Sizzy (:moneybag:)](#sizzy-moneybag)
-    - [aseprite (:moneybag:)](#aseprite-moneybag)
-    - [Deckset (:moneybag:)](#deckset-moneybag)
+  - [hyper](#hyper)
+  - [hammerspoon](#hammerspoon)
+  - [Gifski](#gifski)
+  - [Sizzy (:moneybag:)](#sizzy-moneybag)
+  - [aseprite (:moneybag:)](#aseprite-moneybag)
+  - [Deckset (:moneybag:)](#deckset-moneybag)
+
+---
 
 ## :books: Libraries
 
@@ -80,10 +80,6 @@
 #### [remeda](https://github.com/remeda/remeda)
 
 > A utility library for JavaScript and TypeScript.
-
-#### [randoma](https://github.com/sindresorhus/randoma)
-
-> User-friendly pseudorandom number generator (PRNG)
 
 #### [nanoid](https://github.com/ai/nanoid)
 
@@ -181,6 +177,10 @@
 
 > ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 
+#### [env-cmd](https://github.com/toddbluhm/env-cmd)
+
+> Setting environment variables from a file
+
 ### React
 
 #### [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
@@ -213,21 +213,13 @@
 
 > A Vite-native test framework. It's fast!
 
-#### [ava](https://github.com/avajs/ava)
-
-> Node.js test runner that lets you develop with confidence 🚀
-
-#### [esbuild-runner](https://github.com/folke/esbuild-runner)
-
-> ⚡️ Super-fast on-the-fly transpilation of modern JS, TypeScript and JSX using esbuild
-
 #### [np](https://github.com/sindresorhus/np)
 
 > A better `npm publish`
 
-#### [ts-prune](https://github.com/nadeesha/ts-prune)
+#### [knip](https://github.com/webpro/knip)
 
-> Find unused exports in a typescript project
+> ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 
 #### [jscpd](https://github.com/kucherenko/jscpd)
 
@@ -238,10 +230,6 @@
 #### [tig](https://github.com/jonas/tig)
 
 > Text-mode interface for git
-
-#### [thefuck](https://github.com/nvbn/thefuck)
-
-> Magnificent app which corrects your previous console command
 
 #### [autojump](https://github.com/wting/autojump)
 
@@ -254,6 +242,10 @@
 #### [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
 > Fish shell like syntax highlighting for Zsh
+
+#### [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+
+> Fish-like autosuggestions for zsh
 
 ## :postbox: Services
 

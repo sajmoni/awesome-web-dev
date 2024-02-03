@@ -16,6 +16,7 @@
     - [xstate](#xstate)
     - [zod](#zod)
     - [faker](#faker)
+    - [scule](#scule)
   - [Browser](#browser)
     - [pixi.js](#pixijs)
     - [tinykeys](#tinykeys)
@@ -108,6 +109,10 @@
 #### [faker](https://github.com/faker-js/faker)
 
 > Generate massive amounts of fake data in the browser and node.js
+
+#### [scule](https://github.com/unjs/scule)
+
+> 🧵 String Case Utils
 
 ### Browser
 

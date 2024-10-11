@@ -254,6 +254,10 @@
 
 ## :postbox: Services
 
+#### [pkg-size](https://pkg-size.dev/)
+
+> Find the true size of an npm package
+
 #### [netlify](https://www.netlify.com/)
 
 > Build the future of the web
